@@ -1,18 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="260">
-  <rect x="0" y="0" width="600" height="260" fill="#ffffff" rx="12" ry="12"/>
-  <text x="28" y="40" fill="#24292f" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">
-    Top Languages by Repo
-  </text>
-  <rect x="40" y="48" width="12" height="12" rx="2" ry="2" fill="#3572A5" />
-  <text x="58" y="58" fill="#24292f" font-family="Segoe UI, Arial, sans-serif" font-size="13">Shell – 58.2%</text>
-  <rect x="270.0" y="60" width="176.96" height="14" rx="4" ry="4" fill="#3572A5" />
-  <rect x="40" y="70" width="12" height="12" rx="2" ry="2" fill="#89e051" />
-  <text x="58" y="80" fill="#24292f" font-family="Segoe UI, Arial, sans-serif" font-size="13">Python – 33.7%</text>
-  <rect x="270.0" y="84" width="102.36" height="14" rx="4" ry="4" fill="#89e051" />
-  <rect x="40" y="92" width="12" height="12" rx="2" ry="2" fill="#e34c26" />
-  <text x="58" y="102" fill="#24292f" font-family="Segoe UI, Arial, sans-serif" font-size="13">JavaScript – 6.9%</text>
-  <rect x="270.0" y="108" width="20.90" height="14" rx="4" ry="4" fill="#e34c26" />
-  <rect x="40" y="114" width="12" height="12" rx="2" ry="2" fill="#f1e05a" />
-  <text x="58" y="124" fill="#24292f" font-family="Segoe UI, Arial, sans-serif" font-size="13">HTML – 1.2%</text>
-  <rect x="270.0" y="132" width="3.77" height="14" rx="4" ry="4" fill="#f1e05a" />
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="260" role="img" aria-labelledby="title desc">
+<title id="title">Top Languages by Repo</title>
+<desc id="desc">Donut chart of top programming languages.</desc>
+<rect width="100%" height="100%" fill="#0d1117" rx="8" />
+<text x="32" y="40" fill="#c9d1d9" font-size="20" font-family="Segoe UI, system-ui">Top Languages by Repo</text>
+<rect x="40" y="58" width="14" height="14" fill="#89e051" rx="2" />
+<text x="62" y="70" fill="#c9d1d9" font-size="13" font-family="Segoe UI, system-ui">Shell (57.8%)</text>
+<rect x="40" y="80" width="14" height="14" fill="#3572A5" rx="2" />
+<text x="62" y="92" fill="#c9d1d9" font-size="13" font-family="Segoe UI, system-ui">Python (34.2%)</text>
+<rect x="40" y="102" width="14" height="14" fill="#E45756" rx="2" />
+<text x="62" y="114" fill="#c9d1d9" font-size="13" font-family="Segoe UI, system-ui">JavaScript (6.8%)</text>
+<rect x="40" y="124" width="14" height="14" fill="#e34c26" rx="2" />
+<text x="62" y="136" fill="#c9d1d9" font-size="13" font-family="Segoe UI, system-ui">HTML (1.2%)</text>
+<path d="M 330.00 65.00 A 80.00 80.00 0 1 1 292.55 215.69 L 308.93 184.76 A 45.00 45.00 0 1 0 330.00 100.00 Z" fill="#89e051" stroke="#0d1117" stroke-width="1"/>
+<path d="M 292.55 215.69 A 80.00 80.00 0 0 1 291.23 75.02 L 308.19 105.64 A 45.00 45.00 0 0 0 308.93 184.76 Z" fill="#3572A5" stroke="#0d1117" stroke-width="1"/>
+<path d="M 291.23 75.02 A 80.00 80.00 0 0 1 323.82 65.24 L 326.52 100.13 A 45.00 45.00 0 0 0 308.19 105.64 Z" fill="#E45756" stroke="#0d1117" stroke-width="1"/>
+<path d="M 323.82 65.24 A 80.00 80.00 0 0 1 330.00 65.00 L 330.00 100.00 A 45.00 45.00 0 0 0 326.52 100.13 Z" fill="#e34c26" stroke="#0d1117" stroke-width="1"/>
+<text x="330" y="150" text-anchor="middle" fill="#c9d1d9" font-size="12" font-family="Segoe UI, system-ui">Lang Stats</text>
 </svg>
