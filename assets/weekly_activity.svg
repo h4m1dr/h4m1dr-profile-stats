@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220">
+<style>.title{font:bold 18px sans-serif;fill:#eceff4;}.label{font:12px sans-serif;fill:#e5e9f0;}.hours{font:12px monospace;fill:#eceff4;}</style>
+<rect width="100%" height="100%" fill="#2e3440" rx="16" />
+<text x="24" y="32" class="title">Weekly Activity (placeholder)</text>
+<text x="24" y="52" class="label">Sample hours per day – real GitHub data integration coming soon.</text>
+<rect x="80" y="88.23529411764706" width="40" height="61.76470588235294" rx="6" fill="#5e81ac" />
+<text x="100.0" y="166" text-anchor="middle" class="label">Mon</text>
+<text x="100.0" y="84.23529411764706" text-anchor="middle" class="hours">3.5h</text>
+<rect x="140" y="75.88235294117646" width="40" height="74.11764705882354" rx="6" fill="#5e81ac" />
+<text x="160.0" y="166" text-anchor="middle" class="label">Tue</text>
+<text x="160.0" y="71.88235294117646" text-anchor="middle" class="hours">4.2h</text>
+<rect x="200" y="114.70588235294117" width="40" height="35.294117647058826" rx="6" fill="#5e81ac" />
+<text x="220.0" y="166" text-anchor="middle" class="label">Wed</text>
+<text x="220.0" y="110.70588235294117" text-anchor="middle" class="hours">2.0h</text>
+<rect x="260" y="60.0" width="40" height="90.0" rx="6" fill="#5e81ac" />
+<text x="280.0" y="166" text-anchor="middle" class="label">Thu</text>
+<text x="280.0" y="56.0" text-anchor="middle" class="hours">5.1h</text>
+<rect x="320" y="65.29411764705883" width="40" height="84.70588235294117" rx="6" fill="#5e81ac" />
+<text x="340.0" y="166" text-anchor="middle" class="label">Fri</text>
+<text x="340.0" y="61.294117647058826" text-anchor="middle" class="hours">4.8h</text>
+<rect x="380" y="128.8235294117647" width="40" height="21.176470588235293" rx="6" fill="#5e81ac" />
+<text x="400.0" y="166" text-anchor="middle" class="label">Sat</text>
+<text x="400.0" y="124.8235294117647" text-anchor="middle" class="hours">1.2h</text>
+<rect x="440" y="137.64705882352942" width="40" height="12.352941176470589" rx="6" fill="#5e81ac" />
+<text x="460.0" y="166" text-anchor="middle" class="label">Sun</text>
+<text x="460.0" y="133.64705882352942" text-anchor="middle" class="hours">0.7h</text>
+<text x="24" y="204" class="label">Last updated on 2025-12-06 01:58:12 UTC</text>
+</svg>
