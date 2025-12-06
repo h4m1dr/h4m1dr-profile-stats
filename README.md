@@ -13,10 +13,52 @@ It is responsible for:
 - `assets/` → Public SVG files that can be embedded in my main profile README  
 - `dist/` → Markdown snippets or other text outputs
 
-Example usage in my main profile README:
+### 🍩 Top Languages (دونات جدید)
+
+![Top Languages](https://raw.githubusercontent.com/h4m1dr/h4m1dr-profile-stats/main/assets/top_langs.svg)
 
 ```md
+## Top Languages
+
 ![Top Languages](https://raw.githubusercontent.com/h4m1dr/h4m1dr-profile-stats/main/assets/top_langs.svg)
-````
+```
+
+---
+
+### 📅 Weekly Activity (هفته‌ای)
+
+![Weekly Activity](https://raw.githubusercontent.com/h4m1dr/h4m1dr-profile-stats/main/assets/weekly_activity.svg)
+
+```md
+## Weekly Activity
+
+![Weekly Activity](https://raw.githubusercontent.com/h4m1dr/h4m1dr-profile-stats/main/assets/weekly_activity.svg)
+```
+
+---
+
+### 📊 Monthly Activity (ماهانه)
+
+![Monthly Activity](https://raw.githubusercontent.com/h4m1dr/h4m1dr-profile-stats/main/assets/monthly_activity.svg)
+
+```md
+## Monthly Activity
+
+![Monthly Activity](https://raw.githubusercontent.com/h4m1dr/h4m1dr-profile-stats/main/assets/monthly_activity.svg)
+```
+
+---
+
+### ⏱️ WakaTime (فعلاً placeholder)
+
+![WakaTime](https://raw.githubusercontent.com/h4m1dr/h4m1dr-profile-stats/main/assets/wakatime.svg)
+
+```md
+## Coding Time (WakaTime)
+
+![WakaTime](https://raw.githubusercontent.com/h4m1dr/h4m1dr-profile-stats/main/assets/wakatime.svg)
+```
+
+---️
 
 More widgets and stats coming soon.
