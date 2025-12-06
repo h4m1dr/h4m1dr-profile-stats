@@ -1,5 +1,4 @@
 import os
-import math
 import requests
 from collections import defaultdict
 from typing import Dict, List, Tuple
@@ -110,7 +109,6 @@ def generate_svg(lang_percentages: List[Tuple[str, float]], output_path: str) ->
 
     The SVG is intentionally minimal so that it renders quickly in GitHub.
     """
-    # Take top N languages for display
     top_n = 6
     langs = lang_percentages[:top_n]
 
@@ -142,7 +140,6 @@ def generate_svg(lang_percentages: List[Tuple[str, float]], output_path: str) ->
     total_bar_height = len(langs) * (bar_height + bar_gap) - bar_gap
     height = top_margin + total_bar_height + 30
 
-    # Build SVG elements
     svg_lines: List[str] = []
     svg_lines.append(f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}">')
     svg_lines.append(
@@ -163,18 +160,15 @@ def generate_svg(lang_percentages: List[Tuple[str, float]], output_path: str) ->
         y = top_margin + idx * (bar_height + bar_gap)
         bar_width = bar_area_width * (perc / max_percentage)
 
-        # Language label on the left
         svg_lines.append(
             f'<text x="20" y="{y + bar_height - 4}" class="label">{lang}</text>'
         )
 
-        # Bar
         svg_lines.append(
             f'<rect x="{left_margin}" y="{y}" width="{bar_width:.1f}" '
             f'height="{bar_height}" fill="#5e81ac" rx="4" ry="4" />'
         )
 
-        # Percentage on the right
         svg_lines.append(
             f'<text x="{left_margin + bar_area_width + 10}" y="{y + bar_height - 4}" '
             f'class="percent">{format_percentage(perc)}</text>'
