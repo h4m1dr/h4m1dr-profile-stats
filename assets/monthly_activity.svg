@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220">
+<style>.title{font:bold 18px sans-serif;fill:#eceff4;}.label{font:12px sans-serif;fill:#e5e9f0;}.hours{font:12px monospace;fill:#eceff4;}</style>
+<rect width="100%" height="100%" fill="#2e3440" rx="16" />
+<text x="24" y="32" class="title">Monthly Activity (placeholder)</text>
+<text x="24" y="52" class="label">Sample weekly totals – real GitHub data integration coming soon.</text>
+<rect x="80" y="87.62376237623762" width="60" height="62.37623762376238" rx="6" fill="#a3be8c" />
+<text x="110.0" y="166" text-anchor="middle" class="label">Week 1</text>
+<text x="110.0" y="83.62376237623762" text-anchor="middle" class="hours">14.0h</text>
+<rect x="170" y="67.57425742574257" width="60" height="82.42574257425743" rx="6" fill="#a3be8c" />
+<text x="200.0" y="166" text-anchor="middle" class="label">Week 2</text>
+<text x="200.0" y="63.57425742574257" text-anchor="middle" class="hours">18.5h</text>
+<rect x="260" y="105.44554455445544" width="60" height="44.554455445544555" rx="6" fill="#a3be8c" />
+<text x="290.0" y="166" text-anchor="middle" class="label">Week 3</text>
+<text x="290.0" y="101.44554455445544" text-anchor="middle" class="hours">10.0h</text>
+<rect x="350" y="60.0" width="60" height="90.0" rx="6" fill="#a3be8c" />
+<text x="380.0" y="166" text-anchor="middle" class="label">Week 4</text>
+<text x="380.0" y="56.0" text-anchor="middle" class="hours">20.2h</text>
+<text x="24" y="204" class="label">Last updated on 2025-12-06 01:58:22 UTC</text>
+</svg>
