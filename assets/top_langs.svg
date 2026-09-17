@@ -3,29 +3,29 @@
 <rect width="100%" height="100%" fill="#2e3440" rx="16" />
 <text x="24" y="32" class="title">Top Languages – h4m1dr</text>
 <circle cx="150" cy="140" r="50" stroke="#3b4252" stroke-width="24" fill="none" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#5e81ac" stroke-width="24" stroke-dasharray="259.75 54.41" stroke-dashoffset="-78.54" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#a3be8c" stroke-width="24" stroke-dasharray="27.50 286.66" stroke-dashoffset="-338.29" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#ebcb8b" stroke-width="24" stroke-dasharray="21.84 292.32" stroke-dashoffset="-365.79" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#bf616a" stroke-width="24" stroke-dasharray="4.42 309.74" stroke-dashoffset="-387.63" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#b48ead" stroke-width="24" stroke-dasharray="0.57 313.59" stroke-dashoffset="-392.05" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#88c0d0" stroke-width="24" stroke-dasharray="0.08 314.08" stroke-dashoffset="-392.62" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#5e81ac" stroke-width="24" stroke-dasharray="283.89 30.27" stroke-dashoffset="-78.54" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#a3be8c" stroke-width="24" stroke-dasharray="24.23 289.93" stroke-dashoffset="-362.43" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#ebcb8b" stroke-width="24" stroke-dasharray="2.67 311.49" stroke-dashoffset="-386.66" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#bf616a" stroke-width="24" stroke-dasharray="1.93 312.23" stroke-dashoffset="-389.33" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#b48ead" stroke-width="24" stroke-dasharray="0.88 313.28" stroke-dashoffset="-391.25" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#88c0d0" stroke-width="24" stroke-dasharray="0.23 313.93" stroke-dashoffset="-392.14" stroke-linecap="round" />
 <circle cx="150" cy="140" r="42.0" fill="#2e3440" />
 <rect x="250" y="68" width="14" height="14" rx="3" fill="#5e81ac" />
-<text x="272" y="80" class="legend">JavaScript</text>
-<text x="410" y="80" class="percent">82.7%</text>
+<text x="272" y="80" class="legend">TypeScript</text>
+<text x="410" y="80" class="percent">90.4%</text>
 <rect x="250" y="92" width="14" height="14" rx="3" fill="#a3be8c" />
-<text x="272" y="104" class="legend">Shell</text>
-<text x="410" y="104" class="percent">8.8%</text>
+<text x="272" y="104" class="legend">JavaScript</text>
+<text x="410" y="104" class="percent">7.7%</text>
 <rect x="250" y="116" width="14" height="14" rx="3" fill="#ebcb8b" />
-<text x="272" y="128" class="legend">Python</text>
-<text x="410" y="128" class="percent">7.0%</text>
+<text x="272" y="128" class="legend">Shell</text>
+<text x="410" y="128" class="percent">0.8%</text>
 <rect x="250" y="140" width="14" height="14" rx="3" fill="#bf616a" />
-<text x="272" y="152" class="legend">TypeScript</text>
-<text x="410" y="152" class="percent">1.4%</text>
+<text x="272" y="152" class="legend">Python</text>
+<text x="410" y="152" class="percent">0.6%</text>
 <rect x="250" y="164" width="14" height="14" rx="3" fill="#b48ead" />
-<text x="272" y="176" class="legend">HTML</text>
-<text x="410" y="176" class="percent">0.2%</text>
+<text x="272" y="176" class="legend">CSS</text>
+<text x="410" y="176" class="percent">0.3%</text>
 <rect x="250" y="188" width="14" height="14" rx="3" fill="#88c0d0" />
-<text x="272" y="200" class="legend">Dockerfile</text>
-<text x="410" y="200" class="percent">0.0%</text>
+<text x="272" y="200" class="legend">Astro</text>
+<text x="410" y="200" class="percent">0.1%</text>
 </svg>
