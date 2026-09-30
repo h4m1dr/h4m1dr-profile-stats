@@ -3,11 +3,11 @@
 <rect width="100%" height="100%" fill="#2e3440" rx="16" />
 <text x="24" y="32" class="title">Top Languages – h4m1dr</text>
 <circle cx="150" cy="140" r="50" stroke="#3b4252" stroke-width="24" fill="none" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#5e81ac" stroke-width="24" stroke-dasharray="283.89 30.27" stroke-dashoffset="-78.54" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#a3be8c" stroke-width="24" stroke-dasharray="24.23 289.93" stroke-dashoffset="-362.43" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#ebcb8b" stroke-width="24" stroke-dasharray="2.67 311.49" stroke-dashoffset="-386.66" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#bf616a" stroke-width="24" stroke-dasharray="1.93 312.23" stroke-dashoffset="-389.33" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#b48ead" stroke-width="24" stroke-dasharray="0.88 313.28" stroke-dashoffset="-391.25" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#5e81ac" stroke-width="24" stroke-dasharray="283.95 30.21" stroke-dashoffset="-78.54" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#a3be8c" stroke-width="24" stroke-dasharray="24.18 289.98" stroke-dashoffset="-362.49" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#ebcb8b" stroke-width="24" stroke-dasharray="2.66 311.50" stroke-dashoffset="-386.67" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#bf616a" stroke-width="24" stroke-dasharray="1.92 312.24" stroke-dashoffset="-389.33" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#b48ead" stroke-width="24" stroke-dasharray="0.88 313.28" stroke-dashoffset="-391.26" stroke-linecap="round" />
 <circle cx="150" cy="140" r="50" fill="none" stroke="#88c0d0" stroke-width="24" stroke-dasharray="0.23 313.93" stroke-dashoffset="-392.14" stroke-linecap="round" />
 <circle cx="150" cy="140" r="42.0" fill="#2e3440" />
 <rect x="250" y="68" width="14" height="14" rx="3" fill="#5e81ac" />
