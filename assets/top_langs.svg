@@ -3,10 +3,10 @@
 <rect width="100%" height="100%" fill="#2e3440" rx="16" />
 <text x="24" y="32" class="title">Top Languages – h4m1dr</text>
 <circle cx="150" cy="140" r="50" stroke="#3b4252" stroke-width="24" fill="none" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#5e81ac" stroke-width="24" stroke-dasharray="261.48 52.68" stroke-dashoffset="-78.54" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#a3be8c" stroke-width="24" stroke-dasharray="24.32 289.84" stroke-dashoffset="-340.02" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#ebcb8b" stroke-width="24" stroke-dasharray="18.42 295.74" stroke-dashoffset="-364.34" stroke-linecap="round" />
-<circle cx="150" cy="140" r="50" fill="none" stroke="#bf616a" stroke-width="24" stroke-dasharray="3.87 310.29" stroke-dashoffset="-382.76" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#5e81ac" stroke-width="24" stroke-dasharray="261.52 52.64" stroke-dashoffset="-78.54" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#a3be8c" stroke-width="24" stroke-dasharray="24.32 289.84" stroke-dashoffset="-340.06" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#ebcb8b" stroke-width="24" stroke-dasharray="18.42 295.74" stroke-dashoffset="-364.38" stroke-linecap="round" />
+<circle cx="150" cy="140" r="50" fill="none" stroke="#bf616a" stroke-width="24" stroke-dasharray="3.83 310.33" stroke-dashoffset="-382.80" stroke-linecap="round" />
 <circle cx="150" cy="140" r="50" fill="none" stroke="#b48ead" stroke-width="24" stroke-dasharray="2.56 311.60" stroke-dashoffset="-386.63" stroke-linecap="round" />
 <circle cx="150" cy="140" r="50" fill="none" stroke="#88c0d0" stroke-width="24" stroke-dasharray="2.45 311.71" stroke-dashoffset="-389.18" stroke-linecap="round" />
 <circle cx="150" cy="140" r="42.0" fill="#2e3440" />
